@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+.error{
+  color: white;
+  font-weight: bold;
+  background: red;
+  width: 20%;
+  margin: 0 auto;
+}
